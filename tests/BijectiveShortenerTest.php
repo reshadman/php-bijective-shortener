@@ -9,7 +9,7 @@ class BijectiveShortenerTest extends PHPUnit_Framework_TestCase {
 	 *
 	 * @return void
 	 */
-	public function testPackShortenerCreateFromInteger()
+	public function testBijectiveShortenerMakeFromIntegerMethod()
 	{
 		ini_set('memory_limit', -1);
 
